@@ -1,6 +1,6 @@
 ## Name and live url
-Stephanie Kuo Week12 - Employee Directory React
-https://sfds1.github.io/EmployeeDirectoryReact/
+Stephanie Kuo Week12 - Google Book Search
+https://sfds1.github.io/booksearch/
 
 
 ## Description
@@ -23,7 +23,7 @@ npm start
 ```
 
 ## Technologies
-React, Bootstrap, Axios
+React, Node, Express, MongoDB, Bootstrap, Axios
 
 ## Languages, frameworks, various tools
 
